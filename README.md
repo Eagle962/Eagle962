@@ -1,5 +1,7 @@
 # 👋 Hello, I'm SilvA
 
+<img align="right" src="cat.gif" alt="Cat Animation" width="180" />
+
 ##  About Me
 - 📚 a fifteen-year-old student
 - 🔧 Team FRC7130 Future Shock
@@ -8,9 +10,6 @@
 - 🤔 I'm looking for help with High computing power equipment
 - 📫 How to reach me: 91y272@gmail.com
 
-<div align="right">
-  <img src="cat.gif" alt="Your Animation" width="400" />
-</div>
 ## Skills and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -49,5 +48,4 @@
 </a>
 
 ---
-
 
