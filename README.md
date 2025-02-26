@@ -1,6 +1,7 @@
 # 👋 Hello, I'm SilvA
 
 ##  About Me
+- a fifteen-year-old student
 - 🔭 I'm currently working on SilvaGo
 - 🌱 I'm currently learning Machine learning
 - 🤔 I'm looking for help with High computing power equipment
