@@ -2,7 +2,8 @@
 <img align="right" src="cat.gif" alt="Cat Animation" width="180" />
 
 ##  About Me
-- 📚 a fifteen-year-old student
+- 🌏 Taiwanese
+- 📚 A fifteen-year-old student
 - 🔧 Team FRC7130 Future Shock
 - 🔭 I'm currently working on SilvaGo
 - 🌱 I'm currently learning Machine learning
