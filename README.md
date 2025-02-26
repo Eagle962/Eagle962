@@ -30,7 +30,7 @@
 ##  Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eagle962&repo=SilvaGo&theme=radical)](https://github.com/Eagle962/SilvaGo)
 
-##  Language Stats
+##  Most used Language 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle962&layout=compact&theme=radical)
 
 ##  GitHub Trophies
