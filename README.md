@@ -10,7 +10,7 @@
 - 🤔 I'm looking for help with High computing power equipment
 - 📫 How to reach me: 91y272@gmail.com
 
-## Skills and Tools
+## Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
