@@ -1,5 +1,4 @@
 # 👋 Hello, I'm SilvA
-
 <img align="right" src="cat.gif" alt="Cat Animation" width="180" />
 
 ##  About Me
