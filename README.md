@@ -1,10 +1,10 @@
 # 👋 Hello, I'm SilvA
 
 ##  About Me
-- 🔭 I'm currently working on [SilvaGo]
-- 🌱 I'm currently learning [Machine learning]
-- 🤔 I'm looking for help with [High computing power equipment]
-- 📫 How to reach me: [91y272@gmail.com]
+- 🔭 I'm currently working on SilvaGo
+- 🌱 I'm currently learning Machine learning
+- 🤔 I'm looking for help with High computing power equipment
+- 📫 How to reach me: 91y272@gmail.com
 
 
 ##  Skills and Tools
