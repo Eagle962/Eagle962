@@ -7,7 +7,7 @@
 - 📫 How to reach me: 91y272@gmail.com
 
 
-##  Skills and Tools
+## Skills and Tools
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
