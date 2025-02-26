@@ -1,13 +1,11 @@
 # 👋 Hello, I'm SilvA
 
 ##  About Me
-- 🔭 I'm currently working on [Your project/work]
-- 🌱 I'm currently learning [Technologies you're learning]
-- 👯 I'm looking to collaborate on [Types of projects you want to participate in]
-- 🤔 I'm looking for help with [Areas you need help with]
-- 💬 Ask me about [Technologies/areas you're good at]
-- 📫 How to reach me: [Your email or other contact methods]
-- ⚡ Fun fact: [Share an interesting fact about yourself]
+- 🔭 I'm currently working on [SilvaGo]
+- 🌱 I'm currently learning [Machine learning]
+- 🤔 I'm looking for help with [High computing power equipment]
+- 📫 How to reach me: [91y272@gmail.com]
+
 
 ##  Skills and Tools
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
