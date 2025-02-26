@@ -40,6 +40,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Supervised Model vs Unsupervised Model](https://medium.com/@91y272/supervised-model-vs-unsupervised-model-08d273df471f)
 - [Convolutional Neural Network intro](https://medium.com/@91y272/convolutional-neural-network-intro-837af6675de5)
+- [Monte Carlo Tree Search](https://medium.com/@91y272/monte-carlo-tree-search-2cbfcc9a4742)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Connect
