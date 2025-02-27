@@ -26,6 +26,10 @@
 <a href="https://github.com/Eagle962/SilvaGo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eagle962&repo=SilvaGo&theme=radical" />
 </a>
+<a href="https://github.com/Eagle962/Silver-2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eagle962&repo=Silver-2.0&theme=radical" />
+</a>
+
 
 ##  Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eagle962&repo=SilvaGo&theme=radical)](https://github.com/Eagle962/SilvaGo)
